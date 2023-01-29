@@ -1,0 +1,17 @@
+.card{
+    box-shadow: 3px 3px 10px black;
+}
+
+.image{
+    height: 400px;
+    width: 50px;
+}
+
+.mother{
+    
+    background-color: aquamarine;
+    width: 350px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+}
